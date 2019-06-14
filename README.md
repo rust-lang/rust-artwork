@@ -14,7 +14,7 @@ Cargo names, is also governed by trademark.** Our trademark policy is
 [described in full on the Rust website][legal],
 but the summary is as follows:
 
-[legal]: https://creativecommons.org/licenses/by/4.0/
+[legal]: https://www.rust-lang.org/policies/media-guide
 
 > TL;DR: Most non-commercial uses of the Rust/Cargo names and logos
 > are allowed and do not require permission; most commercial uses
