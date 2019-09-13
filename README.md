@@ -16,6 +16,20 @@ made”.
 Note that uses of the Logo must also abide by the trademark rules,
 described below.
 
+### Trademark
+
+**Note that use of the Rust logos, and the Rust and Cargo names, is
+also governed by trademark.** Our trademark policy is [described in
+full on the Rust website][legal], but the summary is as follows:
+
+[legal]: https://www.rust-lang.org/policies/media-guide
+
+> TL;DR: Most non-commercial uses of the Rust/Cargo names and logos
+> are allowed and do not require permission; most commercial uses
+> require permission. In either case, the most important rule is that
+> uses of the trademarks cannot appear official or imply any
+> endorsement by the Rust project.
+
 ## Licensing terms for the RustConf artwork
 
 The RustConf artwork is distributed under a [Creative Commons
@@ -26,23 +40,7 @@ distributing derived works.
 
 [CC-BY-NC-ND]: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-Note that uses of the RustConf artwork must also abide by the
-trademark rules, described below.
-
-## Trademark
-
-**Note that use of this artwork, the Rust logos, and the Rust and
-Cargo names, is also governed by trademark.** Our trademark policy is
-[described in full on the Rust website][legal],
-but the summary is as follows:
-
-[legal]: https://www.rust-lang.org/policies/media-guide
-
-> TL;DR: Most non-commercial uses of the Rust/Cargo names and logos
-> are allowed and do not require permission; most commercial uses
-> require permission. In either case, the most important rule is that
-> uses of the trademarks cannot appear official or imply any
-> endorsement by the Rust project.
+The RustConf artwork is owned by [Tilde](https://www.tilde.io/).
 
 ## Other uses
 
