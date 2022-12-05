@@ -4,6 +4,7 @@
   #rect { fill: white }
   @media (prefers-color-scheme: dark) {
     #r, #cir, #cog, #mount { stroke: white }
+    #r { fill: white }
     #rect { fill: black }
   }
 </style>
