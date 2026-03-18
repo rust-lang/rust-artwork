@@ -15,6 +15,18 @@ Each directory has its own license for the artwork it contains.
 
 The [logo/](logo/) directory contains various versions the official Rust logo.
 
+# Mascot
+
+<div>
+<img src="mascot/rustacean-orig-noshadow.svg" width="100px" />
+<img src="mascot/rustacean-flat-noshadow.svg" width="100px" />
+<img src="mascot/rustacean-flat-happy.svg" width="100px" />
+<img src="mascot/corro.svg" width="100px" />
+</div>
+
+The [mascot/](mascot/) directory contains the original drawings of Ferris and
+Corro, the unofficial Rust mascots, by Karen Rustad Tölva.
+
 # RustConf 2017–2019
 
 <div>
