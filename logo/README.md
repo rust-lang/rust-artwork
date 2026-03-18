@@ -9,7 +9,12 @@
 </p>
 
 The `svg` files with `single-path` in the name use only a single `<path>` element
-and no advanced svg features.
+and no advanced svg features:
+
+<p>
+<img src="rust-logo-single-path.svg" width="120px" />
+<img src="rust-logo-gear-only-single-path.svg" width="120px" />
+</p>
 
 ## Copyright
 
