@@ -16,6 +16,12 @@ and no advanced svg features:
 <img src="rust-logo-gear-only-single-path.svg" width="120px" />
 </p>
 
+The `white-outline` version has a white background and outline, to make it usable on dark backgrounds:
+
+<p>
+<img src="rust-logo-white-outline.svg" width="120px" />
+</p>
+
 ## Copyright
 
 The Rust logo is distributed under the terms of the [Creative Commons
