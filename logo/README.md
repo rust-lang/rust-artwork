@@ -1,9 +1,10 @@
 # Rust Logo
 
 <p>
-<img src="rust-logo-blk.svg" height="120px" />
-<img src="rust-logo-512x512.png" height="120px" />
-<img src="rust-logo-gear-only.svg" height="120px" />
+<img src="rust-logo.svg" width="120px" />
+<img src="rust-logo-512x512.png" width="120px" />
+<img src="rust-logo-gear-only.svg" width="120px" />
+<img src="rust-logo-rainbow-circle.png" width="120px" />
 </p>
 
 ## Copyright

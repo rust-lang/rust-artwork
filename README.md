@@ -8,9 +8,10 @@ Each directory has its own license for the artwork it contains.
 ## Rust Logo
 
 <p>
-<img src="logo/rust-logo-blk.svg" width="120px" />
+<img src="logo/rust-logo.svg" width="120px" />
 <img src="logo/rust-logo-512x512.png" width="120px" />
 <img src="logo/rust-logo-gear-only.svg" width="120px" />
+<img src="logo/rust-logo-rainbow-circle.png" width="120px" />
 </p>
 
 The [logo/](logo/) directory contains various versions the official Rust logo.
