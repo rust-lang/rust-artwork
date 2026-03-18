@@ -4,12 +4,13 @@ This is a collection of artwork related to the Rust Programming Language,
 including the official logo of Rust itself.
 
 Each directory has its own license for the artwork it contains.
+Please check the `README.md` file in each directory for details.
 
 ## Rust Logo
 
 <p>
 <img src="logo/rust-logo.svg" width="120px" />
-<img src="logo/rust-logo-512x512.png" width="120px" />
+<img src="logo/rusty/rust-logo-512x512.png" width="120px" />
 <img src="logo/rust-logo-gear-only.svg" width="120px" />
 <img src="logo/rust-logo-rainbow-circle.png" width="120px" />
 </p>
