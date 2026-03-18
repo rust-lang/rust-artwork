@@ -1,13 +1,13 @@
 # Ferris and Corro
 
-<div>
-<img src="rustacean-orig-noshadow.svg" width="100px" />
-<img src="rustacean-flat-noshadow.svg" width="100px" />
+<p>
+<img src="ferris-orig-noshadow.svg" width="100px" />
+<img src="ferris-flat-noshadow.svg" width="100px" />
 <img src="cuddlyferris.svg" width="100px" />
-<img src="rustacean-flat-gesture.svg" width="100px" />
-<img src="rustacean-flat-happy.svg" width="100px" />
+<img src="ferris-flat-gesture.svg" width="100px" />
+<img src="ferris-flat-happy.svg" width="100px" />
 <img src="corro.svg" width="100px" />
-</div>
+</p>
 
 These drawings were made by Karen Rustad Tölva and are published on https://rustacean.net/.
 They are archived here in this repository because of their importance to the Rust community.

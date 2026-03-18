@@ -1,8 +1,12 @@
 # Rust Logo
 
-![Rust Logo](rust-logo-blk.svg)
+<p>
+<img src="rust-logo-blk.svg" height="120px" />
+<img src="rust-logo-512x512.png" height="120px" />
+<img src="rust-logo-gear-only.svg" height="120px" />
+</p>
 
-## Licensing terms for the Rust logo
+## Copyright
 
 The Rust logo is distributed under the terms of the [Creative Commons
 Attribution license (CC-BY)][CC-BY]. This is the most permissive
@@ -16,7 +20,7 @@ made”.
 However, note that uses of the Logo must also abide by the trademark rules,
 described below.
 
-### Trademark
+## Trademark
 
 **Note that the Rust logos, and the Rust and Cargo names, is also
 are registered trademarks.**

@@ -1,39 +1,39 @@
-# rust-artwork
+# Rust Artwork
 
 This is a collection of artwork related to the Rust Programming Language,
 including the official logo of Rust itself.
 
 Each directory has its own license for the artwork it contains.
 
-# Rust Logo
+## Rust Logo
 
-<div>
-<img src="logo/rust-logo-blk.svg" width="150px" />
-<img src="logo/rust-logo-128x128.png" width="150px" />
-<img src="logo/rust-logo-gear-only.svg" width="150px" />
-</div>
+<p>
+<img src="logo/rust-logo-blk.svg" width="120px" />
+<img src="logo/rust-logo-512x512.png" width="120px" />
+<img src="logo/rust-logo-gear-only.svg" width="120px" />
+</p>
 
 The [logo/](logo/) directory contains various versions the official Rust logo.
 
-# Mascot
+## Mascot
 
-<div>
-<img src="mascot/rustacean-orig-noshadow.svg" width="100px" />
-<img src="mascot/rustacean-flat-noshadow.svg" width="100px" />
-<img src="mascot/rustacean-flat-happy.svg" width="100px" />
+<p>
+<img src="mascot/ferris-orig-noshadow.svg" width="100px" />
+<img src="mascot/ferris-flat-noshadow.svg" width="100px" />
+<img src="mascot/ferris-flat-happy.svg" width="100px" />
 <img src="mascot/corro.svg" width="100px" />
-</div>
+</p>
 
 The [mascot/](mascot/) directory contains the original drawings of Ferris and
 Corro, the unofficial Rust mascots, by Karen Rustad Tölva.
 
-# RustConf 2017–2019
+## RustConf 2017–2019
 
-<div>
+<p>
 <img src="rustconf/2017/Rust_Lucy-Art_A.png" height="150px" />
-<img src="rustconf/2017/Rust_Lucy-Art_C.png" height="150px" />
 <img src="rustconf/2018/lucy-mountain-climber.png" height="150px" />
-</div>
+<img src="rustconf/2019/lucy-with-flag.png" height="150px" />
+</p>
 
 The [rustconf/](rustconf/) directory contains
 artwork that was designed for RustConf 2017 through 2019.

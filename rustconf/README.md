@@ -1,6 +1,14 @@
 # RustConf Artwork
 
-## Licensing terms for the RustConf artwork
+<p>
+<img src="rustconf/2017/Rust_Lucy-Art_A.png" height="150px" />
+<img src="rustconf/2018/lucy-mountain-climber.png" height="150px" />
+<img src="rustconf/2019/lucy-with-flag.png" height="150px" />
+</p>
+
+The artwork in this directory was designed for RustConf 2017 through 2019.
+
+## License
 
 The RustConf artwork in this directory is distributed under a
 [Creative Commons Attribute-NonCommercial-NoDerivatives][CC-BY-NC-ND]
