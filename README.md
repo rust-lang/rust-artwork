@@ -1,50 +1,27 @@
 # rust-artwork
 
-Official artwork for the Rust project.
+This is a collection of artwork related to the Rust Programming Language,
+including the official logo of Rust itself.
 
-## Licensing terms for the Rust logo
+Each directory has its own license for the artwork it contains.
 
-The Rust logo is distributed under the terms of the [Creative Commons
-Attribution license (CC-BY)][CC-BY]. This is the most permissive
-Creative Commons license, and allows reuse and modifications for any
-purpose. The restrictions are that distributors must “give appropriate
-credit, provide a link to the license, and indicate if changes were
-made”.
+# Rust Logo
 
-[CC-BY]: https://creativecommons.org/licenses/by/4.0/
+<div>
+<img src="logo/rust-logo-blk.svg" width="150px" />
+<img src="logo/rust-logo-128x128.png" width="150px" />
+<img src="logo/rust-logo-gear-only.svg" width="150px" />
+</div>
 
-Note that uses of the Logo must also abide by the trademark rules,
-described below.
+The [logo/](logo/) directory contains various versions the official Rust logo.
 
-### Trademark
+# RustConf 2017–2019
 
-**Note that use of the Rust logos, and the Rust and Cargo names, is
-also governed by trademark.** Our trademark policy is [described in
-full on the Rust website][legal], but the summary is as follows:
+<div>
+<img src="rustconf/2017/Rust_Lucy-Art_A.png" height="150px" />
+<img src="rustconf/2017/Rust_Lucy-Art_C.png" height="150px" />
+<img src="rustconf/2018/lucy-mountain-climber.png" height="150px" />
+</div>
 
-[legal]: https://www.rust-lang.org/policies/media-guide
-
-> TL;DR: Most non-commercial uses of the Rust/Cargo names and logos
-> are allowed and do not require permission; most commercial uses
-> require permission. In either case, the most important rule is that
-> uses of the trademarks cannot appear official or imply any
-> endorsement by the Rust project.
-
-## Licensing terms for the RustConf artwork
-
-The RustConf artwork is distributed under a [Creative Commons
-Attribute-NonCommercial-NoDerivatives][CC-BY-NC-ND] license. This
-license permits you to reproduce the work as-is for noncommercial
-purposes, with attribution, but does not permit creating or
-distributing derived works.
-
-[CC-BY-NC-ND]: https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-The RustConf artwork is owned by [Tilde](https://www.tilde.io/).
-
-## Other uses
-
-If you would like to use the artwork in a way that is not covered by
-the license and trademark rules given above, it may still be
-permitted; e-mail the `trademark@rust-lang.org` address to ask
-permission.
+The [rustconf/](rustconf/) directory contains
+artwork that was designed for RustConf 2017 through 2019.
