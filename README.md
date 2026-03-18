@@ -13,6 +13,7 @@ Please check the `README.md` file in each directory for details.
 <img src="logo/rusty/rust-logo-512x512.png" width="120px" />
 <img src="logo/rust-logo-gear-only.svg" width="120px" />
 <img src="logo/rust-logo-rainbow-circle.png" width="120px" />
+<a href="logo/3d/rust-logo.stl"><img src="logo/3d/preview.png" width="120px" /></a>
 </p>
 
 The [logo/](logo/) directory contains various versions the official Rust logo.

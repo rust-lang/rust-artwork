@@ -5,6 +5,7 @@
 <img src="rusty/rust-logo-512x512.png" width="120px" />
 <img src="rust-logo-gear-only.svg" width="120px" />
 <img src="rust-logo-rainbow-circle.png" width="120px" />
+<a href="3d/rust-logo.stl"><img src="3d/preview.png" width="120px" /></a>
 </p>
 
 The `svg` files with `single-path` in the name use only a single `<path>` element
