@@ -38,8 +38,8 @@ described below.
 
 ## Trademark
 
-**Note that the Rust logos, and the Rust and Cargo names, is also
-are registered trademarks.**
+**Note that the Rust logos, and the Rust and Cargo names, are also
+registered trademarks.**
 Our trademark policy is [described in
 full on the Rust Foundation website][legal], but the summary is as follows:
 
