@@ -46,9 +46,9 @@ artwork that was designed for RustConf 2017 through 2019.
 
 <p>
 <img src="rustweek/2025/ferris-conference.png" height="130px" />
-<img src="rustweek/2025/ferris-side.png" height="130px" />
 <img src="rustweek/2025/ferris-party.png" height="130px" />
 <img src="rustweek/2025/ferris-happy.png" height="130px" />
+<img src="rustweek/2025/ferris-side.png" height="130px" />
 </p>
 
 <p>

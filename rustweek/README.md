@@ -2,11 +2,11 @@
 
 <p>
 <img src="2025/ferris-conference.png" height="150px" />
-<img src="2025/ferris-side.png" height="150px" />
 <img src="2025/birthday-postcard.png" height="150px" />
 <img src="2025/ferris-bg.png" height="150px" />
 <img src="2025/ferris-party.png" height="150px" />
 <img src="2025/ferris-happy.png" height="150px" />
+<img src="2025/ferris-side.png" height="150px" />
 </p>
 
 <p>
