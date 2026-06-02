@@ -41,3 +41,22 @@ See https://rustacean.net/.
 
 The [rustconf/](rustconf/) directory contains
 artwork that was designed for RustConf 2017 through 2019.
+
+## RustWeek 2025–2026
+
+<p>
+<img src="rustweek/2025/ferris-conference.png" height="150px" />
+<img src="rustweek/2025/ferris-side.png" height="150px" />
+<img src="rustweek/2025/ferris-party.png" height="150px" />
+<img src="rustweek/2025/ferris-happy.png" height="150px" />
+</p>
+
+<p>
+<img src="rustweek/2026/ferris-scared.png" height="150px" />
+<img src="rustweek/2026/corro-scared.png" height="150px" />
+<img src="rustweek/2026/sticker1.png" height="150px" />
+<img src="rustweek/2026/sticker2.png" height="150px" />
+</p>
+
+The [rustweek/](rustweek/) directory contains
+artwork that was designed for RustWeek 2025 and 2026.
