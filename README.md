@@ -21,10 +21,10 @@ The [logo/](logo/) directory contains various versions the official Rust logo.
 ## Mascot
 
 <p>
-<img src="mascot/ferris-orig-noshadow.svg" width="100px" />
-<img src="mascot/ferris-flat-noshadow.svg" width="100px" />
-<img src="mascot/ferris-flat-happy.svg" width="100px" />
-<img src="mascot/corro.svg" width="100px" />
+<img src="mascot/ferris-orig-noshadow.svg" width="150px" />
+<img src="mascot/ferris-flat-noshadow.svg" width="150px" />
+<img src="mascot/ferris-flat-happy.svg" width="150px" />
+<img src="mascot/corro.svg" width="150px" />
 </p>
 
 The [mascot/](mascot/) directory contains the original drawings of Ferris and
@@ -45,17 +45,17 @@ artwork that was designed for RustConf 2017 through 2019.
 ## RustWeek 2025–2026
 
 <p>
-<img src="rustweek/2025/ferris-conference.png" height="150px" />
-<img src="rustweek/2025/ferris-side.png" height="150px" />
-<img src="rustweek/2025/ferris-party.png" height="150px" />
-<img src="rustweek/2025/ferris-happy.png" height="150px" />
+<img src="rustweek/2025/ferris-conference.png" height="130px" />
+<img src="rustweek/2025/ferris-side.png" height="130px" />
+<img src="rustweek/2025/ferris-party.png" height="130px" />
+<img src="rustweek/2025/ferris-happy.png" height="130px" />
 </p>
 
 <p>
-<img src="rustweek/2026/ferris-scared.png" height="150px" />
-<img src="rustweek/2026/corro-scared.png" height="150px" />
-<img src="rustweek/2026/sticker1.png" height="150px" />
-<img src="rustweek/2026/sticker2.png" height="150px" />
+<img src="rustweek/2026/ferris-scared.png" height="130px" />
+<img src="rustweek/2026/corro-scared.png" height="130px" />
+<img src="rustweek/2026/sticker1.png" height="130px" />
+<img src="rustweek/2026/sticker2.png" height="130px" />
 </p>
 
 The [rustweek/](rustweek/) directory contains
